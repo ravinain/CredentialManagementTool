@@ -1,0 +1,1 @@
+Download Java Cryptography Extension file from http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html, extract the jar files and save them in ${java.home}/jre/lib/security/ 
